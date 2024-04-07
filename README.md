@@ -83,3 +83,11 @@ Create, Read, Update, Delete operations.
 - Delete: Delete a record from the database.
 
 ![Screenshot 2024-04-07 231023](https://github.com/divyashah0510/crud_app/assets/102017379/df73b89b-ac17-444c-94bb-5af4ceba4565)
+
+
+## For more references you could refer following link for firebase setup:
+- [Refer this Video](https://www.youtube.com/watch?v=iQOvD0y-xnw&t=182s)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
