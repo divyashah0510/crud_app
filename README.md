@@ -69,13 +69,25 @@ You can copy the apikeys and other fields when you run the command `flutterfire 
 Create, Read, Update, Delete operations.
 
 - Create: Add a new record to the database.
-  ![Create](./screenshots/create.png)
+  
+![Screenshot 2024-04-07 231346](https://github.com/divyashah0510/crud_app/assets/102017379/f0a42d2b-1b9e-47b3-b342-0f06690e5f11)
 
 - Read: Read all the records from the database.
-  ![Read](./screenshots/read.png)
+
+![Screenshot 2024-04-07 231252](https://github.com/divyashah0510/crud_app/assets/102017379/c7871cf2-5c6a-44b5-ad6c-fc032442d8c8)
 
 - Update: Update a record in the database.
-  ![Update](./screenshots/update.png)
+
+![Screenshot 2024-04-07 231425](https://github.com/divyashah0510/crud_app/assets/102017379/1e6a4c7c-59fb-4ff4-97fe-5828ea1f2919)
 
 - Delete: Delete a record from the database.
-  ![Delete](./screenshots/delete.png)
+
+![Screenshot 2024-04-07 231023](https://github.com/divyashah0510/crud_app/assets/102017379/df73b89b-ac17-444c-94bb-5af4ceba4565)
+
+
+## For more references you could refer following link for firebase setup:
+- [Refer this Video](https://www.youtube.com/watch?v=iQOvD0y-xnw&t=182s)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
